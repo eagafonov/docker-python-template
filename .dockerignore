@@ -1,0 +1,2 @@
+# Do not put any Git stuff into container
+.git*
